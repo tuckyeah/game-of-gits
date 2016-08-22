@@ -11,3 +11,6 @@ being, and let me assure you he will DEFINITELY NOT DIE!
 (Spoiler: Joffrey dies.)
 
 Extra sentence to test sending a pull request.
+
+Gonna make another chaaaange... for twice in myyyy liiiife
+I made some mistakes before with git but now i'm gonna make it riii-eee-iiight
